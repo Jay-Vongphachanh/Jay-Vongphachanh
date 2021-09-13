@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Work/Life balance
-- 🌱 I’m currently learning ... Flask and Node.js
+- 🌱 I’m currently learning ... web scraping  
 - 👯 I’m looking to collaborate on ... Anything
 - 🤔 I’m looking for help with ... (not sure yet)
 - 💬 Ask me about ... Anything
